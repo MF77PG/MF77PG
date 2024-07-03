@@ -1,5 +1,7 @@
 <h2 align="left">Ola ! Sou ,<br> Marcos Fabiano de Souza</h2>
-
+<h2 align="left">-Cursando Faculdade de Tecnologia em Análise de Sistemas </h2>
+<h2 align="left">-Cursando Formação de Linguagem Python</h2>
+<h2 align="lefi">-Cursando Formação de BI com Power BI </h2>
 ###
 
 <div align="center">
