@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MF77PG/MF77PG/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MF77PG/MF77PG/main/snake.svg" alt="Snake animation" />
 
 ###
