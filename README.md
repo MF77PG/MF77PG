@@ -1,8 +1,8 @@
 <h2 align="left">Ola ! Sou ,<br> Marcos Fabiano de Souza</h2>
-<h2 align="left">-Cursando Faculdade de Tecnologia em Análise de Sistemas </h2>
-<h2 align="left">-Cursando Formação de Linguagem Python</h2>
-<h2 align="lefi">-Cursando Formação de BI com Power BI </h2>
-###
+<h3 align="left">-Cursando Faculdade de Tecnologia em Análise de Sistemas </h2>
+<h3 align="left">-Cursando Formação de Linguagem Python</h2>
+<h3 align="lefi">-Cursando Formação de BI com Power BI </h2>
+##########################################################################################################################################################################################3
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MF77PG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
